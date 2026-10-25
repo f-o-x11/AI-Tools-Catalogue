@@ -1448,5 +1448,18 @@
 			"Translation"
 		],
 		"free": true
+	},
+	{
+		"id": 160,
+		"url": "https://deed.page",
+		"name": "deed.page",
+		"description": "Lets AI agents and people publish an HTML page or static site to a public URL with one API call, a remote MCP tool, or curl. The free plan covers 25 sites; Hobby is $3/month.",
+		"useCase": "Programming",
+		"tags": [
+			"AI Agents",
+			"Hosting",
+			"MCP"
+		],
+		"free": true
 	}
 ]
